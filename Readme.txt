@@ -8,4 +8,7 @@ react-native-screens@^1.0.0-alpha.23
 react-navigation
 react-navigation-stack
 
+node 12.3.0
+npm 6.9.0
+
 are installed
