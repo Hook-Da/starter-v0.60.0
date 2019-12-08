@@ -1,0 +1,11 @@
+Version of react-native-cli 0.60.0
+
+redux
+react-redux
+react-native-reanimated
+react-native-gesture-handler@1.3.0
+react-native-screens@^1.0.0-alpha.23
+react-navigation
+react-navigation-stack
+
+are installed
